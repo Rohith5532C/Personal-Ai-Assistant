@@ -1,0 +1,4 @@
+This Folder you need to just create 
+The use of this Folder is for example whenever you run the ImageGeneration code the images are stored in this folder.
+That's like speech,chatlog, htmlwebsite for voice recognition, etc.
+All the data of those codes in Backend will store here.
