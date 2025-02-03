@@ -15,3 +15,8 @@ pygame
 edge-tts
 PyQt5
 webdriver-manager
+
+#Create one Main.py file if python was already installed in your desktop (or) open terminal
+pip install \-r Requirements.txt
+OR
+pip install (all the above seperatly) like pip install groq
